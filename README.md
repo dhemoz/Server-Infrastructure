@@ -35,8 +35,9 @@ Petunjuk: https://developer.hashicorp.com/terraform/downloads
 
 Petunjuk: https://portal.aws.amazon.com/billing/signup
   (Memerlukan kartu VISA/Mastercard yang akan di verifikasi oleh AWS Amazon)
-
+  
 4.Buat akun AWS IAM
+
 Petunjuk Lhttps://docs.aws.amazon.com/id_id/IAM/latest/UserGuide/id_users_create.html
 
 5. Siapkan Access Key dan Secret Key dari akun AWS IAM
