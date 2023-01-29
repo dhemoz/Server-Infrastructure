@@ -31,12 +31,12 @@ Petunjuk: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-insta
 
 Petunjuk: https://developer.hashicorp.com/terraform/downloads
 
-3.Sign Up Akun AWS
+  3.Sign Up Akun AWS
 
 Petunjuk: https://portal.aws.amazon.com/billing/signup
   (Memerlukan kartu VISA/Mastercard yang akan di verifikasi oleh AWS Amazon)
   
-4.Buat akun AWS IAM
+  4.Buat akun AWS IAM
 
 Petunjuk Lhttps://docs.aws.amazon.com/id_id/IAM/latest/UserGuide/id_users_create.html
 
